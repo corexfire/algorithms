@@ -214,5 +214,3 @@ Berikut adalah daftar algoritma yang diimplementasikan beserta detail dan contoh
     - [Visualgo](https://visualgo.net/)
 - **Dokumentasi Python**: [docs.python.org](https://docs.python.org/3/)
 
----
-*Dibuat dengan bantuan AI Assistant di Trae IDE.*
